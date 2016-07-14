@@ -1,0 +1,238 @@
+/**/
+.background {
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+}
+
+.panel {
+}
+
+.upper-panel {
+    background-color: yellow;
+    width: 100%;
+    height: 60%;
+}
+
+.lower-panel {
+    background-color: lightgreen;
+    width: 100%;
+    height: 40%;
+}
+
+.keyboard {
+    width: 100%;
+}
+
+.keyboard .row {
+    width: 100%;
+}
+
+.key {
+    display: inline-block;
+    border-width: 1px;
+    border-color: gray;
+    background-color: white;
+    min-width: 1.1em;
+    height: 1.1em;
+    text-align: center;
+}
+
+.key-1:before {
+  content: "1";
+}
+.key-2:before {
+  content: "2";
+}
+.key-3:before {
+  content: "3";
+}
+.key-4:before {
+  content: "4";
+}
+.key-5:before {
+  content: "5";
+}
+.key-6:before {
+  content: "6";
+}
+.key-7:before {
+  content: "7";
+}
+.key-8:before {
+  content: "8";
+}
+.key-9:before {
+  content: "9";
+}
+.key-0:before {
+  content: "0";
+}
+.key-minus:before {
+  content: "-";
+}
+.key-hat:before {
+  content: "^";
+}
+.key-backslash:before {
+  content: "\\";
+}
+.key-delete:before {
+  content: "BS";
+}
+.key-tab:before {
+  content: "Tab";
+}
+.key-q:before {
+  content: "Q";
+}
+.key-w:before {
+  content: "W";
+}
+.key-e:before {
+  content: "E";
+}
+.key-r:before {
+  content: "R";
+}
+.key-t:before {
+  content: "T";
+}
+.key-y:before {
+  content: "Y";
+}
+.key-u:before {
+  content: "U";
+}
+.key-i:before {
+  content: "I";
+}
+.key-o:before {
+  content: "O";
+}
+.key-p:before {
+  content: "P";
+}
+.key-atmark:before {
+  content: "@";
+}
+.key-beginbrace:before {
+  content: "[";
+}
+.key-control:before {
+  content: "Ctl";
+}
+.key-a:before {
+  content: "A";
+}
+.key-s:before {
+  content: "S";
+}
+.key-d:before {
+  content: "D";
+}
+.key-f:before {
+  content: "F";
+}
+.key-g:before {
+  content: "G";
+}
+.key-h:before {
+  content: "H";
+}
+.key-j:before {
+  content: "J";
+}
+.key-k:before {
+  content: "K";
+}
+.key-l:before {
+  content: "L";
+}
+.key-semicolon:before {
+  content: ";";
+}
+.key-colon:before {
+  content: ":";
+}
+.key-endbrace:before {
+  content: "]";
+}
+.key-enter:before {
+  content: "Enter";
+}
+.key-leftshift:before {
+  content: "Shift";
+}
+.key-z:before {
+  content: "Z";
+}
+.key-x:before {
+  content: "X";
+}
+.key-c:before {
+  content: "C";
+}
+.key-v:before {
+  content: "V";
+}
+.key-b:before {
+  content: "B";
+}
+.key-n:before {
+  content: "N";
+}
+.key-m:before {
+  content: "M";
+}
+.key-comma:before {
+  content: ",";
+}
+.key-period:before {
+  content: ".";
+}
+.key-slash:before {
+  content: "/";
+}
+.key-underscore:before {
+  content: "_";
+}
+.key-uparrow:before {
+  content: "↑";
+}
+.key-rightshift:before {
+  content: "Shift";
+}
+.key-caps:before {
+  content: "Caps";
+}
+.key-option:before {
+  content: "Opt";
+}
+.key-leftcommand:before {
+  content: "Cmd";
+}
+.key-english:before {
+  content: "英数";
+}
+.key-space:before {
+  content: "Space";
+}
+.key-japanese:before {
+  content: "かな";
+}
+.key-rightcommand:before {
+  content: "Cmd";
+}
+.key-function:before {
+  content: "Fn";
+}
+.key-leftarrow:before {
+  content: "←";
+}
+.key-downarrow:before {
+  content: "↓";
+}
+.key-rightarrow:before {
+  content: "→";
+}
